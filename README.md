@@ -1,5 +1,3 @@
-# Memo_neverForget
-
 #MEMO 
 ##“Never Forget”
 
